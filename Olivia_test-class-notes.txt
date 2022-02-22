@@ -1,0 +1,2 @@
+In Firmware on Feb. 22 2022, we worked in smartgit and classroom git. 
+Today we made new branches and merged branches together. 
